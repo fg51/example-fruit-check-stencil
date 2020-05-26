@@ -1,7 +1,7 @@
 {
   "name": "client",
   "private": true,
-  "version": "0.0.0-develop",
+  "version": "0.0.3-develop+1",
   "description": "checksheet",
   "license": "MIT",
   "files": [
