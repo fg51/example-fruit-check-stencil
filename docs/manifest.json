@@ -1,7 +1,7 @@
 {
   "name": "client",
   "short_name": "client",
-  "start_url": "/",
+  "start_url": "/example-fruit-checksheet",
   "display": "standalone",
   "icons": [{
     "src": "assets/icon/icon192.png",
