@@ -9,10 +9,10 @@ export const config: Config = {
   outputTargets: [{
     type: 'www',
     serviceWorker: null,
-    // baseUrl: 'https://kflange.github.io/example-fruit-check',
+    baseUrl: 'https://kflange.github.io/example-fruit-check',
     // baseUrl: 'example-fruit-check/',
     // baseUrl: 'https://foobar',
-    // baseUrl: 'example-fruit',
+    //baseUrl: 'example-fruit',
     prerenderConfig: './prerender.config.ts'
   }],
 };

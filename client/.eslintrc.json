@@ -3,7 +3,7 @@
     "project": "./tsconfig.json"
   },
   "extends": [
-    "plugin:@stencil/recommended"
+    "react-app"
   ],
   "plugins": ["prettier"],
   "rules": {
