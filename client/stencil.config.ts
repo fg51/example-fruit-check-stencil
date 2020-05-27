@@ -8,9 +8,11 @@ export const config: Config = {
   taskQueue: 'async',
   outputTargets: [{
     type: 'www',
-    // serviceWorker: null
+    serviceWorker: null,
     // baseUrl: 'https://kflange.github.io/example-fruit-check',
-    baseUrl: './',
+    // baseUrl: 'example-fruit-check/',
+    // baseUrl: 'https://foobar',
+    baseUrl: 'example-fruit',
     prerenderConfig: './prerender.config.ts'
   }],
 };
