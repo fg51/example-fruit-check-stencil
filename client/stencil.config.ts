@@ -12,7 +12,7 @@ export const config: Config = {
     // baseUrl: 'https://kflange.github.io/example-fruit-check',
     // baseUrl: 'example-fruit-check/',
     // baseUrl: 'https://foobar',
-    baseUrl: 'example-fruit',
+    // baseUrl: 'example-fruit',
     prerenderConfig: './prerender.config.ts'
   }],
 };
